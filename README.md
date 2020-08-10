@@ -8,8 +8,6 @@
 - Elixir programming
 - Model aviation & robotics
 
----
-
 ## Projects
 - School projects 
 - Data exchange
@@ -23,13 +21,9 @@
 - Email: [jakob.klemm@protonmail.com](mailto:jakob.klemm@protonmail.com)
 - Twitter: [jeykey792](https://twitter.com/Jeykey792)
 
----
-
 ## Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jakobklemm&show_icons=true&hide_border=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Languages
 
