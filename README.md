@@ -1,0 +1,19 @@
+![title](static/13.jpg)
+
+## Jakob Klemm
+
+![title](static/33.jpg)
+
+### Activities
+- Photography [jeykey.net][https://jeykey.net]
+- Distributed systems
+- Elixir programming
+- Model aviation & robotics
+
+![title](static/56.jpg)
+
+### Projects
+- School projects 
+- Data exchange
+- General Elixir and concurrency programs
+- Pointless and fun little programs
