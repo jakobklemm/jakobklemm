@@ -1,6 +1,6 @@
 ## Jakob Klemm
 
-![title](static/13.jpg)
+![title](https://jeykey.net/img/scroll/13.jpg)
 
 ### Activities
 - Photography [jeykey](https://jeykey.net)
@@ -8,7 +8,7 @@
 - Elixir programming
 - Model aviation & robotics
 
-![title](static/56.jpg)
+![title](https://jeykey.net/img/scroll/56.jpg)
 
 ### Projects
 - School projects 
