@@ -1,11 +1,9 @@
-![title](static/13.jpg)
-
 ## Jakob Klemm
 
-![title](static/33.jpg)
+![title](static/13.jpg)
 
 ### Activities
-- Photography [jeykey.net][https://jeykey.net]
+- Photography [jeykey](https://jeykey.net)
 - Distributed systems
 - Elixir programming
 - Model aviation & robotics
