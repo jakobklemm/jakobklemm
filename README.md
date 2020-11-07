@@ -1,6 +1,6 @@
 # Jakob Klemm
 
-![title](https://jeykey.net/img/scroll/13.jpg)
+nothing special here.
 
 ## Activities
 - Photography [jeykey.net](https://jeykey.net)
@@ -13,8 +13,6 @@
 - Data exchange
 - General Elixir and concurrency programs
 - Pointless and fun little programs
-
-![title](https://jeykey.net/img/scroll/56.jpg)
 
 ## Contact
 - Reddit: [jakobklemm](https://reddit.com/u/jakobklemm)
