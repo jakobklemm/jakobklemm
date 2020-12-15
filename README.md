@@ -16,7 +16,7 @@ nothing special here.
 
 ## Contact
 - Reddit: [jakobklemm](https://reddit.com/u/jakobklemm)
-- Email: [jakob.klemm@protonmail.com](mailto:jakob.klemm@protonmail.com)
+- Email: [jakob@jeykey.net](mailto:jakob@jeykey.net)
 - Twitter: [jeykey792](https://twitter.com/Jeykey792)
 
 ## Stats
