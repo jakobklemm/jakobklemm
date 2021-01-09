@@ -10,14 +10,13 @@ nothing special here.
 
 ## Projects
 - School projects
-- Data exchange
-- General Elixir and concurrency programs
+- Distributed systems
+- Elixir & Web applications.
 - Pointless and fun little programs
 
 ## Contact
 - Reddit: [jakobklemm](https://reddit.com/u/jakobklemm)
-- Email: [jakob@jeykey.net](mailto:jakob@jeykey.net)
-- Twitter: [jeykey792](https://twitter.com/Jeykey792)
+- Email: [jakob@jeykey.net](mailto:github@jeykey.net)
 
 ## Stats
 
