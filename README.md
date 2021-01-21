@@ -6,17 +6,17 @@ nothing special here.
 - Photography [jeykey.net](https://jeykey.net)
 - Distributed systems
 - Elixir programming
-- Model aviation & robotics
+- Robotics & IoT
 
 ## Projects
-- School projects
 - Distributed systems
-- Elixir & Web applications.
+- Elixir & Web applications
 - Pointless and fun little programs
+- School projects
 
 ## Contact
 - Reddit: [jakobklemm](https://reddit.com/u/jakobklemm)
-- Email: [jakob@jeykey.net](mailto:github@jeykey.net)
+- Email: [github@jeykey.net](mailto:github@jeykey.net)
 
 ## Stats
 
