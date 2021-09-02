@@ -3,21 +3,18 @@
 nothing special here.
 
 ## Activities
-- Photography [jeykey.net](https://jeykey.net)
-- Distributed systems
-- Elixir programming
-- Robotics & IoT
+- [jeykey.net](https://jeykey.net)
+- Distributed and decentralized systems
+- Rust and Systems programming
 
 ## Projects
-- Distributed systems
-- Elixir & Web applications
+- Distributed & decentralized systems
+- Decentralized PubSub based on Kademlia in Rust
 - Pointless and fun little programs
-- School projects
-- Engine Orion
 
 ## Contact
-- Reddit: [jakobklemm](https://reddit.com/u/jakobklemm)
 - Email: [github@jeykey.net](mailto:github@jeykey.net)
+- [jeykey.net](https://jeykey.net)
 
 ## Stats
 
