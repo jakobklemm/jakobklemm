@@ -6,6 +6,7 @@ nothing special here.
 - [jeykey.net](https://jeykey.net)
 - Distributed and decentralized systems
 - Rust and Systems programming
+- Emacs (and editor) setup
 
 ## Projects
 - Distributed & decentralized systems
