@@ -2,8 +2,7 @@
 
 nothing special here. 
 
-[github@jeykey.net](mailto:github@jeykey.net) | [jeykey.net](https://jeykey.net)
-
+- Web presence: [jeykey.net](https://jeykey.net)
 - Personal projects and experiments, mostly using Rust and Emacs.
 - Working on decentralized systems and networking tools.
 
