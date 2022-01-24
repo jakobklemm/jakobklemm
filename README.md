@@ -1,20 +1,10 @@
 # Jakob Klemm
 
-nothing special here.
+nothing special here. 
 
-## Activities
-- [jeykey.net](https://jeykey.net)
-- Distributed and decentralized systems
-- Rust and Systems programming
-- Emacs (and editor) setup
-
-## Projects
-- Distributed & decentralized systems
-- Decentralized PubSub based on Kademlia in Rust
-- Pointless and fun little programs
-
-## Contact
-- Email: [github@jeykey.net](mailto:github@jeykey.net)
+- Personal projects and experiments, mostly using Rust and Emacs.
+- Working on decentralized systems and networking tools.
+- [github@jeykey.net](mailto:github@jeykey.net)
 - [jeykey.net](https://jeykey.net)
 
 ## Stats
