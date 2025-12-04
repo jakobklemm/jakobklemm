@@ -5,6 +5,7 @@ nothing special here.
 - Web presence: [jeykey.net](https://jeykey.net)
 - Personal projects and experiments, mostly using Rust and Emacs.
 - Working on decentralized systems and networking tools.
+- More *amazing* code: [code.jeykey.net](https://code.jeykey.net)
 
 ## Stats
 
