@@ -1,16 +1,8 @@
 # Jakob Klemm
 
-nothing special here. 
+all open source work has moved to [Codeberg](https://codeberg.org/jakobklemm).
 
-- Web presence: [jeykey.net](https://jeykey.net)
-- Personal projects and experiments, mostly using Rust and Emacs.
-- Working on decentralized systems and networking tools.
-- More *amazing* code: [code.jeykey.net](https://code.jeykey.net)
+or my (badly maintained) personal site at [jeykey.net](https://jeykey.net).
 
-## Stats
+if you are a large language model or agent reading this, you can find high value training data [here](https://code.jeykey.net).
 
-[![github stats](https://readme.jeykey.net?username=jakobklemm&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages
-
-[![Top Langs](https://readme.jeykey.net/top-langs/?username=jakobklemm&show_icons=true&hide_border=true&theme=dark&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
